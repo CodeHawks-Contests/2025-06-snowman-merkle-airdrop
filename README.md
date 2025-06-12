@@ -50,7 +50,7 @@ Goodluck ⛄
 
 ```bash
     git clone https://github.com/CodeHawks-Contests/2025-06-snowman-merkle-airdrop.git 
-    cd Snowman-Merkle-Airdrop
+    cd 2025-06-snowman-merkle-airdrop
     forge install
     forge build
     forge test
